@@ -18,7 +18,8 @@
             });
             
             /** clearout()
-             *  This function serves to clearout initialize
+             *  This function serves to clearout previous 
+             *  Informaiton
              * 
              */
             
